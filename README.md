@@ -224,7 +224,7 @@ docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout chasm
 
 ### 9. Verify Scout Ranking
 
-Check your scout's ranking on the [Leaderboard](https://chasm.net/leaderboard). Note that it may take up to an hour for your node's status to update.
+Check your scout's ranking on the [Leaderboard]([https://chasm.net/leaderboard](https://scout.chasm.net/leaderboard?page=1)). Note that it may take up to an hour for your node's status to update.
 
 ![image 3](https://github.com/user-attachments/assets/f1edade0-b5af-418e-80cf-43c348cabeb9)
 
