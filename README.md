@@ -235,6 +235,7 @@ Monitor the performance of your scout using Docker stats:
 ```bash
 docker stats scout
 ```
+![Screenshot 2024-08-09 at 17 07 22](https://github.com/user-attachments/assets/99f01aef-8c70-4097-bbe6-51ff978598c4)
 
 ## Troubleshooting
 
